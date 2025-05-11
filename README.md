@@ -28,7 +28,7 @@ I have had days where I solved 4/4 q of a test of big company, applied with refe
 
 I have even been reached out from Linkedin Easy apply too once XD (The kind of apply we all consider a joke) 
 
-I have seen HRs who claimed my asked CTC to be "already in higher bracket of their budget" suddenly magically increasing their "budget" by 6L when presented with a counter offer (the satisfaction of saying no thanks to that HR tho)
+I have seen HRs who claimed my asked CTC to be "already in higher bracket of their budget" suddenly magically increasing their "budget" by 6L when presented with a counter offer (the satisfaction of saying "no thanks" to that HR tho)
 
 I have had interviews where the interviewer was kind enough to guide me on how to approach certain kinda q
 
