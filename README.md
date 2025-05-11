@@ -34,6 +34,12 @@ I have had interviews where the interviewer was kind enough to guide me on how t
 
 I have seen jobs from very good companies turn out to be ghost jobs (you will see too when every specific date of month you get auto rejected and the same job opens next day, continuous pattern)
 
+I have been on interviewing side too - I have seen seniors with stats degrees or fat-maths-book knowledge flexing their skills to coworkers asking hard theortical questions which have no use in their job. Meanwhile I have also seen senior who used to write fixed 40 questions of the day, ask every interviewee those q, and legit give marks and decide the winner. So yeah, even interviews can depend on luck sometimes , dont worry (something we refuse to believe on campus but we realize as we grow up)
+
+I have also seen vibes and communication skills mattering in interviews - so always smile and make sure you can explain tech concepts in a very playful and good way too. 
+
+...
+
 ...
 
 Basically
@@ -52,7 +58,17 @@ Just, all the best for your search !
 
 ## More tips - 
 
-Your resume isnt even seen by humans or even ATS in most cases, . Job search is not about how qualified you are. Don't take these rejections personally. Sometimes they are even "locality based" - willing to interview only people in same city as office (yeah even seen this behaviour in good mnc companies). Dont shoot arrows one by one aiming at the target - take a machine gun (I have no idea about guns) and shoot a lot of shots all at once - you never know which one will hit the target
+Your resume isnt even seen by humans or even ATS in most cases, . Job search is not about how qualified you are. Don't take these rejections personally. Sometimes they are even "locality based" - willing to interview only people in same city as office (yeah even seen this behaviour in good mnc companies). 
+
+Dont shoot arrows one by one aiming at the target - take a machine gun (I have no idea about guns) and shoot a lot of shots all at once - you never know which one will hit the target
+
+Attend a few interviews, I feel that a lot of influencers are overhyping "job market needs this that" to sell their courses to desperate job seekers. Sure sometimes you could genuinely have a skill gap, but you don't need to learn every latest tech for cracking interviews. 
+
+Headhunters - Lots of jobs posted online are by some "recruiting/job consulting firms" - they are usually headhunters hired by companies to find candidates for them (actually this is a very big industry - there are races between recruitment-firms to fetch resumes for any JD published by company - and they try to get matching candidates sometimes even within hours). So if you see a shady name "leading tech company" "posting on behalf of client" , don't worry about it being shady and do apply - sometimes reasonably okayish companies are also using these headhunters. 
+
+Tracker - This process will drive you nuts , specially when you continuously sit 4 hrs in front of screen filling a million forms - make excel sheets to keep track of which all jobs you have applied with referral, and another excel sheet to keep track of the different interviews and stages going on. Saves a headache. 
+
+Yes you can reach strangers for referral, tho you need a really good linkedin profile for that, and plz mere bolne pe don't start spamming or writing bots to do this. I only did this for some very good jobs which I was genuinely intrested in. Senior referrals matter more, but younger people are more active - so go to the company page on linkedin - filter by country, and the job profile you are looking for (or maybe 1 senior position to it) and then voila you can see the people to reach out to. Even better if you see ur college alums there, more likely to refer. 
 
 ## Bot to fill forms fast - 
 
@@ -67,6 +83,8 @@ InstaHyre - when my senior told me this site, I heard of it first time, but yeah
 Alum groups - lots of openings keep coming up in IIT alum groups also - you will see the power of IIT alum groups now (lets hope you don't come to this stage tho, but yeah if you are reading this I guess you are finding off campus). I have had good interviews (till final round) as the alum liked my skills , even when the official job post asked 2+ exp (didnt convert this interview tho, but still thankful to the alum)
 
 IIMjobs/hirist - they allow you to bulk apply - I remember one of these sites had option to tick and apply 50 jobs at a time. Very powerful to start getting calls. 
+
+Linkedin Easy Apply - It does work, unlike what influencers popularize it to be. Just that a lot of people apply usinng it so the chances of selection get hard. To be fair Naukri has its own version of easy apply in some jobs - and in those jobs you can publically see 8k people applying per job - imagine being a recruiter - obviously not gonna read 8k or even 1k resumes right ?
 
 
 
